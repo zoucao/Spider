@@ -1,0 +1,27 @@
+wechat_platform:
+  cookie: "cookie"
+  token: "token"
+
+nick_name:
+  - { name: "债市研究", biz: "MzA4MzYwNTA0Mg=="}
+  - { name: "中债资信", biz: "MjM5NDIyMzY5Mg=="}
+  - { name: "债券圈", biz: "MjM5MzUxMjc4Mg=="}
+  - { name: "岳读债市", biz: "MzI0NTY3NzExMQ=="}
+  - { name: "郁言债市", biz: "MzU3NTYyNTIyMQ=="}
+  - { name: "华创债券论坛", biz: "MzUzNDcxMDgzNg=="}
+  - { name: "奇霖宏观", biz: "MzI3OTAyMDE2NQ=="}
+  - { name: "兴业研究", biz: "MzI1OTAwMDQwMw=="}
+  - { name: "ratingdog", biz: "MzUzOTMyMzQxNg=="}
+  - { name: "YY评级", biz: "MzAwMjY0MTY2NA=="}
+  - { name: "东方金诚", biz: "MjM5NjU2MDU1MQ=="}
+  - { name: "华泰固收强债论坛", biz: "MzU3MDY3NTU3Nw=="}
+  - { name: "华泰固收小纸条", biz: "MzU1OTg1MDQzNw=="}
+
+
+wechat_app:
+  appmsg_token: "token"
+  cookie: "cookie"
+
+
+
+

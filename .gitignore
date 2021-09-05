@@ -13,6 +13,6 @@ test.py
 .idea
 .git
 
-config.yaml
+#config.yaml
 mariadb_data/
 mitmproxy/
